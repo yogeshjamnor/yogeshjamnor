@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yogesh Jamnor
 
-## 🚀 A passionate [Your Role] from [Your Country]  
+## 🚀 A passionate About MERN Stack Developer and Java Developer
 
 ![Profile Banner](https://your-image-link.png)  
 
