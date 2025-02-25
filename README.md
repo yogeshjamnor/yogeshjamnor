@@ -1,7 +1,10 @@
 # Hi 👋, I'm Yogesh Jamnor
 
 ## 🚀 A passionate About MERN Stack Development and Java Development 
+
 #Intern at Rego Digital Solution, Kothrud
+
+
 ![Profile Banner](https://your-image-link.png)  
 
 - 🌱 I’m currently learning **SpringBoot Hibernate and  MERN Stack Web Development**  
