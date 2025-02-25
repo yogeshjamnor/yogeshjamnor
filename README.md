@@ -2,7 +2,7 @@
 
 ## 🚀 A passionate About MERN Stack Development and Java Development 
 
-#Intern at Rego Digital Solution, Kothrud
+#Intern: Working on MERN-Stack Technologies at Rego Digital Solution, Kothrud 
 
 
 ![Profile Banner](https://your-image-link.png)  
