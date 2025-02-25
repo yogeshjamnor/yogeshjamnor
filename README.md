@@ -9,7 +9,7 @@
 
 Web Technology: HTML, CSS, Bootstrap, PHP
 
-Console: JAVA,Python
+Console/App: JAVA,Python,Android,C#
 
 Database: MySQL, Firebase, MongoDB**  
 - 📫 Reach me at [yogeshjamnor@gmail.com](mailto:yogeshjamnor@gmail.com)  
