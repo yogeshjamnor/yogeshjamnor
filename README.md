@@ -6,8 +6,11 @@
 
 - 🌱 I’m currently learning **SpringBoot Hibernate and  MERN Stack Web Development**  
 - 💬 Ask me about **
+
 Web Technology: HTML, CSS, Bootstrap, PHP
+
 Console: JAVA,Python
+
 Database: MySQL, Firebase, MongoDB**  
 - 📫 Reach me at [yogeshjamnor@gmail.com](mailto:yogeshjamnor@gmail.com)  
 
