@@ -8,4 +8,4 @@
 - 💬 Ask me about **Android, Python**  
 - 📫 Reach me at [yogeshjamnor@gmail.com](mailto:yogeshjamnor@gmail.com)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshjamnor&show_icons=true&theme=dark)
