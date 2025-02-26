@@ -53,10 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogeshjamnor&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
 </p>
-<p>
- <img src="https://github-readme-streak-stats.vercel.app/?user=yogeshjamnor&theme=dark" alt="GitHub Streak" width="48%" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshjamnor&layout=compact&theme=dark" alt="Top Languages" width="48%" />
