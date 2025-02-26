@@ -5,7 +5,7 @@
 #Intern: Working on MERN-Stack Technologies at Rego Digital Solution, Kothrud 
 
 
-![Profile Banner](https://negativespace.co/programmer-code/)  
+![Profile Banner](logo.jpg)  
 
 - 🌱 I’m currently learning **SpringBoot Hibernate and  MERN Stack Web Development**  
 - 💬 Ask me about **
