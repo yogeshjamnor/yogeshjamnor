@@ -54,8 +54,14 @@
 ---
 
 ### WEb Project Deploye
-
-<h1><a href="https://payrollgenix-2pu3o8b5q-yogeshjamnors-projects.vercel.app/">payrollGenix</a> </h1>
+<ul type="none">
+  <li>
+    <h3><a href="https://payrollgenix.vercel.app/">payrollGenix</a> </h3>
+  </li>
+   <li>
+    <h3><a href="https://react-crud-five-theta.vercel.app/">React Crud opertaion</a> </h3>
+  </li>
+</ul>
 
 ## 📊 GitHub Stats  
 
