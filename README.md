@@ -53,7 +53,7 @@
 
 ---
 
-### WEb Project Deploye
+### Web Project Deployement
 <ul type="none">
   <li>
     <h3><a href="https://payrollgenix.vercel.app/">payrollGenix</a> </h3>
