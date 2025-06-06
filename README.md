@@ -61,6 +61,9 @@
    <li>
     <h3><a href="https://react-crud-five-theta.vercel.app/">React Crud opertaion</a> </h3>
   </li>
+   <li>
+    <h3><a href="https://ai-model-amber-seven.vercel.app/">Manual Ai Model</a> </h3>
+  </li>
 </ul>
 
 ## 📊 GitHub Stats  
