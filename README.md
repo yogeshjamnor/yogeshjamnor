@@ -65,7 +65,7 @@
     <h3><a href="https://ai-model-amber-seven.vercel.app/">Manual Ai Model</a> </h3>
   </li>
    <li>
-    <h3><a href="https://https://react-assesment-project.vercel.app/">Admin Dashboard</a> </h3>
+    <h3><a href="https://react-assesment-project.vercel.app/">Admin Dashboard</a> </h3>
   </li>
 </ul>
 
